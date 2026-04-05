@@ -6,11 +6,9 @@
 
 ## 📸 Dashboard Preview
 
-### Albums Analysis
-![Albums](albums.png)
+### Albums Analysis                              ### Artists Analysis 
+![Albums](albums.png)                            ![Artists](artists.png)
 
-### Artists Analysis
-![Artists](artists.png)
 
 ### Tracks Analysis
 ![Tracks](tracks.png)
