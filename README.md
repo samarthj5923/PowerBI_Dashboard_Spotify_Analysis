@@ -51,6 +51,4 @@ This Power BI project analyzes Spotify user listening behavior across albums, ar
 
 ---
 
-**Samarth Jain**
-Data Analyst | Business Intelligence Enthusiast
-Email: \[[samarth.jain.ug23@nsut.ac.in](mailto:samarth.jain.ug23@nsut.ac.in)]
+mailto:samarth.jain.ug23@nsut.ac.in
