@@ -51,4 +51,4 @@ This Power BI project analyzes Spotify user listening behavior across albums, ar
 
 ---
 
-mailto:samarth.jain.ug23@nsut.ac.in
+mailto:samarthj5923@gmail.com
