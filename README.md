@@ -85,6 +85,3 @@ The dashboard focuses on:
 - spotify_history.csv
 
 ---
-
-## 📬 Contact
-samarthj5923@gmail.com
