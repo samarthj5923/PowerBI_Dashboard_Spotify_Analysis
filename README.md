@@ -1,54 +1,90 @@
-# PowerBI_Dashboard_Spotify_Analysis
-Power BI project analyzing Spotify listening trends across albums, artists, and tracks. Includes time-based analysis, weekday/weekend patterns, top content insights, and year-over-year comparisons. Built using data modeling, DAX, and interactive visuals.
+# Spotify Analytics Dashboard (Power BI)
 
-This Power BI project analyzes Spotify user listening behavior across albums, artists, and tracks. The primary objective is to uncover meaningful patterns in user engagement over time and provide comparative insights using time-based trends, frequency of plays, and weekday/weekend behaviors. The report is structured to mirror real-world business intelligence projects, including requirement gathering, data connection, transformation, modeling, and dashboard development. It applies DAX for custom calculations, advanced formatting for readability, and interactive visualizations to deliver insights effectively.
-
-## Project Highlights
-
-### 1. Albums Analysis
-
-* Total albums played over time (monthly and yearly trends)
-* Annual summary of album listening volume with min/max indicators
-* Weekday vs weekend listening pattern segmentation
-* Top 5 most played albums based on frequency
-* Latest year vs previous year comparison with year-over-year (YoY) growth metrics
-
-### 2. Artists Analysis
-
-* Monthly and yearly artist engagement trends
-* Year-wise summary of artist diversity
-* Listening patterns segmented by weekday and weekend
-* Identification of top 5 most listened artists
-* Comparative analysis between latest and previous year with growth trends
-
-### 3. Tracks Analysis
-
-* Monthly and yearly track play behavior
-* Yearly track diversity and volume trends (min/max range)
-* Weekday vs weekend breakdown of track plays
-* Top 5 most played tracks based on frequency
-* Year-over-year track engagement comparison
-
-### 4. Listening Pattern Insights
-
-* Listening time heat map to visualize peak listening hours across days
-* Quadrant-based scatter plot analyzing average listening time vs frequency
-
-  * High frequency, high listening time
-  * Low frequency, high listening time
-  * High frequency, low listening time
-  * Low frequency, low listening time
+> Built an interactive dashboard to analyze user listening behavior, uncover engagement patterns, and identify content performance trends.
 
 ---
 
-## Tools and Technologies Used
+## 📸 Dashboard Preview
 
-* Power BI Desktop
-* Data Modeling and Relationships
-* DAX (Data Analysis Expressions)
-* Time Intelligence Functions
-* Advanced Charting and Custom Formatting
+### Albums Analysis
+![Albums](albums.png)
+
+### Artists Analysis
+![Artists](artists.png)
+
+### Tracks Analysis
+![Tracks](tracks.png)
+
+### Listening Behavior
+![Listening Hours](listening-hours.png)
+
+### Engagement Analysis
+![Engagement](engagement-analysis.png)
 
 ---
 
-mailto:samarthj5923@gmail.com
+## 📊 Overview
+This project analyzes Spotify listening data across albums, artists, and tracks to uncover meaningful patterns in user engagement.
+
+The dashboard focuses on:
+- Time-based listening trends  
+- Content performance (albums, artists, tracks)  
+- User behavior segmentation (weekday vs weekend)  
+- Year-over-year growth analysis  
+
+---
+
+## 🔍 Key Insights
+- Identified peak listening periods across hours and days  
+- Highlighted top-performing artists, albums, and tracks  
+- Observed differences in weekday vs weekend listening behavior  
+- Analyzed year-over-year trends in engagement  
+- Segmented content based on frequency vs listening time  
+
+---
+
+## 📈 Dashboard Features
+
+### Albums Analysis
+- Monthly and yearly listening trends  
+- Top 5 most played albums  
+- Weekday vs weekend segmentation  
+- Year-over-year growth comparison  
+
+### Artists Analysis
+- Artist engagement trends over time  
+- Diversity of artists across years  
+- Top-performing artists identification  
+- YoY comparison of listening patterns  
+
+### Tracks Analysis
+- Track-level listening behavior trends  
+- Frequency-based top tracks  
+- Time-based segmentation insights  
+- Comparative yearly analysis  
+
+### Listening Behavior Insights
+- Heatmap of listening activity across hours and days  
+- Quadrant analysis (frequency vs listening time):
+  - High engagement users  
+  - Casual listeners  
+  - Niche content patterns  
+
+---
+
+## ⚙️ Tools & Techniques
+- Power BI  
+- Data Modeling & Relationships  
+- DAX (Data Analysis Expressions)  
+- Time Intelligence Functions  
+- Interactive Visualizations  
+
+---
+
+## 📊 Dataset
+- spotify_history.csv
+
+---
+
+## 📬 Contact
+samarthj5923@gmail.com
