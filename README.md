@@ -82,6 +82,6 @@ The dashboard focuses on:
 ---
 
 ## 📊 Dataset
-- spotify_history.csv
-
+- [Spotify Listening Dataset](./spotify_history.csv)
+  
 ---
